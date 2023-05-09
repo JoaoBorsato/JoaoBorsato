@@ -25,4 +25,4 @@
     <a href="https://www.linkedin.com/in/joão-pedro-borsato-665252276/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Borsato-linkedin"></a>
 </div>
   
-![Snake animation]()
+![snake gif](https://github.com/JoaoBorsato/JoaoBorsato/blob/output/github-contribution-grid-snake.svg)

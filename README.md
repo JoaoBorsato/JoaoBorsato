@@ -2,12 +2,6 @@
 
 - 🌱 FIAP student ( 'Studying Software Engineering' )
 - 😄 Pronouns: He/him
-
-<div>
-    <a href="https://github.com/JoaoBorsato">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoBorsato&show_icons=true&theme=midnight-purple&include_all_comits=true&count_private=true&hide_border=true" alt="Borsato-github-status">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoBorsato&theme=midnight-purple&hide_border=true&layout=compact" alt="Borsato-linguas-mais-usadas">
-</div>
   
 <div style="display: inline-block;">
     <img align="center" alt="Borsato-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
